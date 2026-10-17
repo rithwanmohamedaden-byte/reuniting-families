@@ -37,7 +37,7 @@ My piece sits at the center: it is the place where records are created and searc
  Key decisions 
 
 -  Every check-in field is optional.  Nobody needs an ID, a phone number, or even a real name. A nickname works.
--  Check-in codes instead of IDs.  Each person gets a short code (like `HAWK-4821`) that a volunteer can write on a slip of paper.
+-  Check-in codes instead of IDs.  Each person gets a short code that a volunteer can write on a slip of paper.
 -  Three privacy levels,  chosen at check-in:
   - *Findable:* searchers see the name, shelter, and code.
   - *Ask me first:* searchers only see "Someone may match. A volunteer will check with them." No name, no location. This is the default.
