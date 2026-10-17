@@ -9,7 +9,9 @@ A web app that helps families separated after a hurricane find each other, with 
 
 ## Screenshots
 
-(Drag your screenshots here: search page, check-in page, a found result, and a privacy-protected result.)
+<img width="574" height="600" alt="Screenshot 2026-10-17 at 17 07 45" src="https://github.com/user-attachments/assets/bb88e6f3-a3a5-4543-8a54-8e35ae69d117" />
+
+<img width="646" height="781" alt="Screenshot 2026-10-17 at 17 08 10" src="https://github.com/user-attachments/assets/871b49a1-8371-49e2-935b-2210843c3948" />
 
 ## The full picture
 
@@ -49,9 +51,7 @@ My piece sits at the center: it is the place where records are created and searc
 - A searcher who finds nothing is told people are still checking in and to try again later, instead of seeing a dead end.
 - Volunteers are not pushed to collect more information than the person wants to share.
 - 
-<img width="574" height="600" alt="Screenshot 2026-10-17 at 17 07 45" src="https://github.com/user-attachments/assets/bb88e6f3-a3a5-4543-8a54-8e35ae69d117" />
 
-<img width="646" height="781" alt="Screenshot 2026-10-17 at 17 08 10" src="https://github.com/user-attachments/assets/871b49a1-8371-49e2-935b-2210843c3948" />
 
 
 
